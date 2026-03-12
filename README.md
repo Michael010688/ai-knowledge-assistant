@@ -20,11 +20,11 @@ OpenAI API
 ## Architecture
 
 User Question
-     ↓
+      ↓
 Vector Search (FAISS)
-     ↓
+      ↓
 Retrieve Documents
-     ↓
+      ↓
 LLM Generation
-     ↓
+      ↓
 Final Answer
